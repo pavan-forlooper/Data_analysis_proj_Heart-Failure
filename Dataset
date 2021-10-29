@@ -1,0 +1,14 @@
+This dataset was developed by integrating other datasets that were previously accessible but had not been merged. This dataset combines five heart datasets with 11 shared characteristics to provide the biggest heart disease dataset available for research purposes to date. The following five datasets were utilised in its curation:
+
+303 observations in Cleveland
+294 observations in Hungarian
+123 observations from Switzerland
+200 observations in Long Beach, Virginia
+270 observations in the Stalog (Heart) data set
+
+There were 1190 observations in all.
+272 observations were duplicated.
+918 observations in the final dataset
+
+Every dataset used may be accessed at the following link: Index of heart disease datasets from the UCI Machine Learning Repository:
+https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/
